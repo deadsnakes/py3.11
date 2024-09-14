@@ -12,7 +12,7 @@ diff --git a/Lib/argparse.py b/Lib/argparse.py
 index 2f5ecda..cc7f84e 100644
 --- a/Lib/argparse.py
 +++ b/Lib/argparse.py
-@@ -91,7 +91,16 @@ import sys as _sys
+@@ -91,7 +91,16 @@
  
  import warnings
  

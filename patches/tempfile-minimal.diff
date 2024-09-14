@@ -12,7 +12,7 @@ diff --git a/Lib/tempfile.py b/Lib/tempfile.py
 index abb5f45..c23894f 100644
 --- a/Lib/tempfile.py
 +++ b/Lib/tempfile.py
-@@ -40,7 +40,146 @@ import functools as _functools
+@@ -40,7 +40,146 @@
  import warnings as _warnings
  import io as _io
  import os as _os
@@ -160,7 +160,7 @@ index abb5f45..c23894f 100644
  import stat as _stat
  import errno as _errno
  from random import Random as _Random
-@@ -926,7 +1065,7 @@ class TemporaryDirectory:
+@@ -926,7 +1065,7 @@ def onerror(func, path, exc_info):
                  if not ignore_errors:
                      raise
  
