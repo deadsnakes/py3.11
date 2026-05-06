@@ -7,6 +7,7 @@ py3.11
 
 - jammy
 - noble
+- resolute
 
 [mainline]: https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
 [nightly]: https://launchpad.net/~deadsnakes/+archive/ubuntu/nightly
